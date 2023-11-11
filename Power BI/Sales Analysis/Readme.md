@@ -1,0 +1,5 @@
+![Img](https://github.com/AlejandroSalme/Data-Related-Projects/blob/master/Power%20BI/imgs/sales_analysis.png)
+![Img](https://github.com/AlejandroSalme/Data-Related-Projects/blob/master/Power%20BI/imgs/sales_analysis_2014.png)
+![Img](https://github.com/AlejandroSalme/Data-Related-Projects/blob/master/Power%20BI/imgs/sales_analysis_2015.png)
+![Img](https://github.com/AlejandroSalme/Data-Related-Projects/blob/master/Power%20BI/imgs/sales_analysis_2016.png)
+![Img](https://github.com/AlejandroSalme/Data-Related-Projects/blob/master/Power%20BI/imgs/sales_analysis_2017.png)
