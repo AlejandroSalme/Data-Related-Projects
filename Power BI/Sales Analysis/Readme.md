@@ -29,9 +29,16 @@ Users can dynamically select and compare data across different years, gaining a 
 - Revenue Contribution by States: The dashboard allows users to explore which states contribute the most to revenue and product purchases. This insight can inform targeted marketing campaigns.
 
 ---
-
+### All years 
 ![Img](https://github.com/AlejandroSalme/Data-Related-Projects/blob/master/Power%20BI/imgs/sales_analysis.png)
+### Year 2014
 ![Img](https://github.com/AlejandroSalme/Data-Related-Projects/blob/master/Power%20BI/imgs/sales_analysis_2014.png)
+
+### Year 2015
 ![Img](https://github.com/AlejandroSalme/Data-Related-Projects/blob/master/Power%20BI/imgs/sales_analysis_2015.png)
+
+### Year 2016
 ![Img](https://github.com/AlejandroSalme/Data-Related-Projects/blob/master/Power%20BI/imgs/sales_analysis_2016.png)
+
+### Year 2017
 ![Img](https://github.com/AlejandroSalme/Data-Related-Projects/blob/master/Power%20BI/imgs/sales_analysis_2017.png)
