@@ -1,5 +1,7 @@
 # Sales Analysis Dashboard Overview
 
+Visualization available [here](https://www.novypro.com/project/sales-analysis-dashboard-power-bi-6)
+
 ### Sales Performance Metrics:
 
 - Total Revenue: $286,40
@@ -42,3 +44,6 @@ Users can dynamically select and compare data across different years, gaining a 
 
 ### Year 2017
 ![Img](https://github.com/AlejandroSalme/Data-Related-Projects/blob/master/Power%20BI/imgs/sales_analysis_2017.png)
+
+---
+[Data source](https://www.kaggle.com/datasets/ishanshrivastava28/superstore-sales)

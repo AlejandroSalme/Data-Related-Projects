@@ -1,4 +1,7 @@
 # Churn Analysis Dashboard Overview
+
+Visualization available [here](https://www.novypro.com/project/customer-churn-analysis-67)
+
 ### Client Churn Insights:
 
 - Total Churned Clients: 2038
@@ -24,3 +27,5 @@
 ![Img](https://github.com/AlejandroSalme/Data-Related-Projects/blob/master/Power%20BI/imgs/churn_analysis.png)
 
 (Considerations: Filter Churned active)
+
+[Data source](https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn)
